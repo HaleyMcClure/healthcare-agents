@@ -1,0 +1,28 @@
+{
+  "case_id": "SYN-PA-001",
+  "synthetic": true,
+  "member": {
+    "name": "Alex Example",
+    "member_id": "SYN000001",
+    "dob": "1978-04-12",
+    "plan": "Example Gold HMO"
+  },
+  "ordering_provider": {
+    "name": "Dr. Jordan Sample",
+    "npi": "1234567893",
+    "phone": "555-0100"
+  },
+  "requested_service": {
+    "name": "MRI lumbar spine without contrast",
+    "cpt": "72148",
+    "planned_date": "2026-10-20",
+    "site": "Example Imaging Center"
+  },
+  "clinical": {
+    "reason": "Low back pain for 8 weeks, not improved with conservative care.",
+    "conservative_care_weeks": 8,
+    "red_flags_documented": false,
+    "prior_imaging_attached": false
+  },
+  "attachments": []
+}
