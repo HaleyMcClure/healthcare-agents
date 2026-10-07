@@ -4,7 +4,7 @@ A set of governed workflow demos for prior authorization, denial appeals, revenu
 
 Everything here runs on synthetic data. There is no patient data in this repository, and nothing here is a production system.
 
-Started in October 2026 by [Haley McClure](https://github.com/Haley-ideate).
+Started in October 2026 by [Haley McClure](https://github.com/HaleyMcClure).
 
 ## Rules for every workflow
 
